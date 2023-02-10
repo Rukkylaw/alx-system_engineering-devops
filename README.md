@@ -1,1 +1,1 @@
-first line
+note empty
